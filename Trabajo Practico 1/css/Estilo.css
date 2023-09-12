@@ -1,0 +1,9 @@
+body{background-image:url("flo.jpg");}
+.titulo{font-family: Brush Script MT;font-size:500%;text-align:center;text-decoration: underline;text-decoration-color:#07CDCA;}
+.listas{font-size: 200%;color:#CA0F70;font-family: cursive;text-decoration: underline;text-decoration-color: #1E37DA }
+.ingredientes {font-size: 120%; list-style-image: url("cora .png")}
+.prepacion{font-size:120%; }
+.imagen{height:250px;width: auto; box-shadow:  0px 5px 5px pink}
+.musica{font-size: 150%;font-family: fantasy;color: #076F04 ;}
+.video{font-size: 140%;}
+.parrafo{text-align: justify; }
